@@ -18,6 +18,10 @@ Thermal InfraRed (TIR) technology has emerged as a significant tool in autonomou
 
 Follow the implementations of **mmdetection** to train and test our model.
 
+
+## Citation
+If you make use of our work, please cite our paper:
+```
 @article{wang2024fourier,
   title={A Fourier-Transform-Based Framework with Asymptotic Attention for Mobile Thermal InfraRed Object Detection},
   author={Wang, Zeyu and Shen, Haibin and Jiang, Wenyu and Huang, Kejie},
@@ -25,3 +29,4 @@ Follow the implementations of **mmdetection** to train and test our model.
   year={2024},
   publisher={IEEE}
 }
+```
