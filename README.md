@@ -18,6 +18,11 @@ Thermal InfraRed (TIR) technology has emerged as a significant tool in autonomou
 
 Follow the implementations of **mmdetection** to train and test our model.
 
+# Updates
+We found a typo in TABLE I, where the n_ft and depth are confused. TABLE I should be:
+![8aa465d1232d23a62a51d934f031380](https://github.com/user-attachments/assets/eb3abec1-515e-4a3b-9e61-8471b6773bd1)
+
+
 
 ## Citation
 If you make use of our work, please cite our paper:
